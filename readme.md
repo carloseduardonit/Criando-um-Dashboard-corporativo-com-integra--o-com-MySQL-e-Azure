@@ -1,4 +1,5 @@
-# [Criando um Dashboard corporativo com integração com MySQL e Azure] (https://web.dio.me/lab/processando-e-transformando-dados-com-power-bi/learning/dc02898f-eee6-48b1-90b5-c0ef3f4f375a?back=/track/randstad-analise-de-dados)
+# -
+[Criando um Dashboard corporativo com integração com MySQL e Azure] (https://web.dio.me/lab/processando-e-transformando-dados-com-power-bi/learning/dc02898f-eee6-48b1-90b5-c0ef3f4f375a?back=/track/randstad-analise-de-dados)
 
 
 ## Entendendo o Desafio
@@ -11,10 +12,10 @@
 
 ## Instruções de Desenvolvimento do Projeto
 
-- [Desafio de Projeto - Processando e Transformando Dados com Power BI - Instruções.docx](Recurso\Desafio de Projeto - Processando e Transformando Dados com Power BI - Instruções.docx)
+-  [Desafio de Projeto - Processando e Transformando Dados com Power BI - Instruções.docx](Recurso\Desafio de Projeto - Processando e Transformando Dados com Power BI - Instruções.docx)
 
 ## Slides
 
-- [Desafio de Projeto - Processando e Transformando Dados com Power BI.pptx](Recurso\Desafio de Projeto - Processando e Transformando Dados com Power BI.pptx)
+-  [Desafio de Projeto - Processando e Transformando Dados com Power BI.pptx](Recurso\Desafio de Projeto - Processando e Transformando Dados com Power BI.pptx)
 
 Bons estudos 😉!!
