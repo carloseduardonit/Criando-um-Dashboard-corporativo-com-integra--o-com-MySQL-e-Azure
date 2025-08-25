@@ -16,6 +16,6 @@
 
 ## Slides
 
--  [Desafio de Projeto - Processando e Transformando Dados com Power BI.pptx](Recurso\Desafio de Projeto - Processando e Transformando Dados com Power BI.pptx)
+- [Desafio de Projeto - Processando e Transformando Dados com Power BI.pptx](Recurso\Desafio de Projeto - Processando e Transformando Dados com Power BI.pptx)
 
 Bons estudos 😉!!
