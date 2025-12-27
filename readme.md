@@ -13,10 +13,10 @@ Dica: ''Se o expert forneceu um repositório Github, você pode dar um "fork" no
 
 ## Instruções de Desenvolvimento do Projeto
 
--   [Desafio de Projeto - Processando e Transformando Dados com Power BI - Instruções.docx](Recurso\Desafio de Projeto - Processando e Transformando Dados com Power BI - Instruções.docx)
+- No arquivo  [Desafio de Projeto - Processando e Transformando Dados com Power BI - Instruções.docx](Recurso\Desafio de Projeto - Processando e Transformando Dados com Power BI - Instruções.docx)
 
 ## Slides
 
-- [Desafio de Projeto - Processando e Transformando Dados com Power BI.pptx](Recurso\Desafio de Projeto - Processando e Transformando Dados com Power BI.pptx)
+- No Slides [Desafio de Projeto - Processando e Transformando Dados com Power BI.pptx](Recurso\Desafio de Projeto - Processando e Transformando Dados com Power BI.pptx)
 
 Bons estudos 😉!!
